@@ -6,3 +6,4 @@
 An Appointment Management System created with C#, WinForms, and mySQL.
 
 ---MORE INFO TO BE ADDED--
+--STILL IN PROCESS OF EDITING SOURCE CODE, WILL BE ADDED LATER--
